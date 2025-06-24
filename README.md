@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Deepak14-12
+- 👋 Hi, I’m DEEPAK BISEN [@Deepak14-12]
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning JAVA, DSA, DBMS. 
+- 🌱 I’m currently learning JAVA, DSA, Spring, DBMS. 
 - 💞️ I’m looking for internships & Job as fresher
 - 📫 How to reach me -
 -                     Email: bisen1412@gmail.com
