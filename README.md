@@ -24,9 +24,10 @@ You can click the Preview link to take a look at your changes.
 ![](https://nirzak-streak-stats.vercel.app/?user=deepak-bisen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-bisen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deepak-bisen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+-->
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
